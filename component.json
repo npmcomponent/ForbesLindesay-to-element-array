@@ -1,6 +1,6 @@
 {
-  "name": "element-to-array",
-  "repo": "ForbesLindesay/element-to-array",
+  "name": "to-element-array",
+  "repo": "ForbesLindesay/to-element-array",
   "description": "Convert an array-like object into an Array, a single element into an array with one item, and does document.querySelectorAll for strings",
   "version": "0.0.1",
   "keywords": [],
