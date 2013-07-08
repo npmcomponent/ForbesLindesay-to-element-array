@@ -1,3 +1,4 @@
+**DEPRECATED: use arrayify**
 
 # to-element-array
 
