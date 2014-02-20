@@ -1,4 +1,4 @@
-var toArray = require('to-array');
+var toArray = require('timoxley-to-array');
 
 module.exports = toElementArray;
 function toElementArray(elements) {
